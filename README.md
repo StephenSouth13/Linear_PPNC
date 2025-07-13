@@ -18,11 +18,11 @@ Hướng Dẫn Cài Đặt và Sử Dụng
 1. Chuẩn bị
 Clone kho chứa này về máy tính của bạn:
 Generated bash
-git clone https://github.com/TEN-CUA-BAN/TEN-KHO-CHUA.git
-cd TEN-KHO-CHUA
+git clone https://github.com/StephenSouth13/Linear_PPNC
+cd Linear
 Use code with caution.
 Bash
-(Hãy thay thế TEN-CUA-BAN/TEN-KHO-CHUA bằng URL kho chứa của bạn)
+
 2. Thiết lập Môi trường
 Khuyến khích sử dụng một môi trường ảo để quản lý các gói thư viện một cách độc lập.
 Generated bash
